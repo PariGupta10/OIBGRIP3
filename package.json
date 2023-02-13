@@ -1,0 +1,19 @@
+{
+  "name": "task-3-temperature-convertor",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PariGupta10/OIBGRIP2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PariGupta10/OIBGRIP2/issues"
+  },
+  "homepage": "https://github.com/PariGupta10/OIBGRIP2#readme",
+  "description": ""
+}
